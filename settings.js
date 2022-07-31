@@ -29,7 +29,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] //ur owner number
+global.vcardowner = ['+94704250348'] //ur owner number
 global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" //ur owner name
 global.ytname = "" //ur yt chanel name
 global.socialm = "GitHub: prabhasha2006" //ur github or insta name
@@ -42,8 +42,8 @@ global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in 
 
 global.callblock === "false" // call block "true" / "false" (CALL ගන්න අය block කිරීමට "true")
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //ur tag number
+global.owner = ['+94704250348']
+global.ownertag = '+94704250348number
 global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
